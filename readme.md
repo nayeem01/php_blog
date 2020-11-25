@@ -36,6 +36,6 @@
 ![USER](/assets/git_images/user.png "user")
 
 
-- post simple
+- POST sample
 
 ![POST](/assets/git_images/post.png "post")
