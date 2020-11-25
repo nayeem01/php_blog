@@ -1,0 +1,15 @@
+.action-bar ul li {
+    margin: 0 3px;
+    padding: 0;
+}
+.action-bar ul li{
+    list-style: none;
+    display: inline;
+    margin: 0  3px;
+}
+.action-bar ul li .fa-edit{
+    color: green;
+}
+.action-bar ul li .fa-trash{
+    color: red;
+}
