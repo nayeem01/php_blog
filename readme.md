@@ -17,14 +17,25 @@
 -   CMS used AdminLITE 3
 -   FrontEnd html, css and javaScript
 
-> ##### Images
+> #### Images
+
+- Backend
 
 ![Backend](/assets/git_images/backend.png "backend")
 
+- Database
+
 ![Database](/assets/git_images/database.png "database")
 
-![Frontend](/assets/git_images/frontend.png "frontend")
+- Frontend
 
-![USER](/assets/git_images/user.png "backend")
+![Frontend](/assets/git_images/front.png "frontend")
+
+- User
+
+![USER](/assets/git_images/user.png "user")
+
+
+- post simple
 
 ![POST](/assets/git_images/post.png "post")
